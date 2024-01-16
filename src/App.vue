@@ -15,7 +15,7 @@ import Ridwan from "./components/Ridwan.vue"
   </div>
   <HelloWorld msg="Vite + Vue" />
 
-  <Ridwan/>
+  <!-- <Ridwan/> -->
 </template>
 
 <style scoped>
